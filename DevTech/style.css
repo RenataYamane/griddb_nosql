@@ -1,0 +1,14 @@
+
+			h1 {color: rgb(255,105,97);
+				font-size: 35px;
+				font-family: "Times New Roman", Times, Serif;
+				margin: 13px 14px 13px 13px;}
+			p {color: blue;
+				font-size: 20px;
+				font-family: Arial, Helvetica, sans-serif;
+				background-color: #333;
+				padding: 15px 12px 13px 14px;}
+			p a {color: pink;}
+			a {color: yellow;}
+			.rosa{color: violet;}
+			#tamanho {font-size: 50px;}
